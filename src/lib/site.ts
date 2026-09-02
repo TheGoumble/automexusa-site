@@ -1,6 +1,3 @@
-// Central place for business info so it's easy to update in one spot.
-// Replace the PLACEHOLDER values below with your real business details.
-
 export const site = {
   name: "AUTOMEXUSA",
   tagline: "Mobile ADAS Calibration Specialists",
